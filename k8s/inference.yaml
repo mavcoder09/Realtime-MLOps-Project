@@ -7,4 +7,4 @@ spec:
   predictor:
     serviceAccountName: sa-s3-access
     sklearn:
-      storageUri: s3://test/model/churn_model.pkl
+      storageUri: s3://churn-model-demo-mvrk/model/churn_model.pkl
